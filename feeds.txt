@@ -1,0 +1,5 @@
+https://blog.cryptographyengineering.com/feed/
+https://aws.amazon.com/blogs/security/tag/encryption/feed/
+https://nakedsecurity.sophos.com/category/cryptography/feed/
+https://news.mit.edu/rss/topic/cryptography
+https://tutanota.com/blog/feed.xml
